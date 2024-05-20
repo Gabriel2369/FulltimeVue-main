@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="text-center">
-      <img class="title shadow-lg" src="/src/assets/title-img3.png" alt="">
+      <img class="title shadow-lg" src="/src/assets/title-img.png" alt="">
     </div>
 
     <div class="container">
